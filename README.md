@@ -37,7 +37,7 @@ I am a Front End Software Engineer from Nigeria.
 - 🔭 I’m currently working on Front end skills
 - 🌱 I’m currently learning React, Next.js & TypeScript
 - 👯 I’m looking to collaborate on web projects
-- :zap: In my free time, I contribute to open source projects
+- ⚡ In my free time, I contribute to open source projects
 - 💬 Ask me about JavaScript, React & Python
 - 📫 How to reach me: 
 
