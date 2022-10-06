@@ -56,5 +56,15 @@ I am a Front End Software Engineer from Nigeria.
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-
 </div>
+
+---
+
+### :fire: My Stats :
+'https://github-readme-streak-stats.herokuapp.com/?user=Superfly101
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Superfly101&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Superfly101&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
