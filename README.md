@@ -1,4 +1,4 @@
-\# Hi there, I'm Daniel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hi there, I'm Daniel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 # 💫 About Me:
 🔭 I’m currently working on building my front-end skills <br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m open to internship roles<br>🌱 I’m currently learning React, Next.js<br>💬 Ask me about JavaScript, React, Python<br>⚡ Fun fact I'm fraysexual
