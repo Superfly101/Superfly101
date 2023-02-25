@@ -14,8 +14,8 @@
 ## Some Things I've Built:
 - A simple [portfolio website](https://superfly101.github.io/portfolio/) showing my individual and team projects built with React.js and CSS Modules. [Repository](https://github.com/Superfly101/portfolio)
 - A [Company's website](https://creative-start-website.vercel.app/) with a contact us form built with Tailwindcss and Next.js
-- A [Linktree](https://linktree-delta-one.vercel.app/) with links to all my socals. [Repository](https://github.com/Superfly101/linktree)
-- A [music player](https://musica-six.vercel.app/) (In progress) with Tailwindcss and Next.js. [Repository](https://github.com/Superfly101/Musica)
+- A [Linktree](https://linktree-delta-one.vercel.app/) with links to all my socials. [Repository](https://github.com/Superfly101/linktree)
+- A [music player app](https://musica-six.vercel.app/) (In progress) with Tailwindcss and Next.js. [Repository](https://github.com/Superfly101/Musica)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Superfly101&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
