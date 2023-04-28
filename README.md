@@ -1,7 +1,7 @@
 **Hi there, I'm Daniel, I have a passion for building and creating things** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 💫 About Me:
-🔭 I’m currently working on building my web development skills <br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m open to front-end roles<br>🌱 I’m currently learning TypeScript, Node.js<br>💬 Ask me about JavaScript, React, Python<br>⚡ Fun fact I love playing chess
+🔭 I’m currently working on building my web development skills <br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m open to front-end roles<br>🌱 I’m currently learning TypeScript, Node.js, C#<br>💬 Ask me about JavaScript, React, Python<br>⚡ Fun fact I love playing chess
 
 
 ## 🌐 Socials:
