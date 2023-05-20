@@ -20,7 +20,7 @@
 
 <div>
   <a href="https://quiz-app-hazel-delta.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=Quiz-App&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://superfly101.github.io/portfolio/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=portfolio&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://superfly101.github.io/Portfolio/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=Portfolio&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://musica-six.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=Musica&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
