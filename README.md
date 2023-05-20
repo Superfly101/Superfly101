@@ -19,8 +19,9 @@
 - A [Linktree](https://linktree-delta-one.vercel.app/) with links to socials. [Repository](https://github.com/Superfly101/linktree)
 
 <div>
-  <a href="https://github.com/Superfly101/Quiz-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=Quiz-App&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/Superfly101/Musica"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=Musica&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://quiz-app-hazel-delta.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=Quiz-App&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://superfly101.github.io/portfolio/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=portfolio&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://musica-six.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=Musica&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
 
