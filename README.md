@@ -16,8 +16,7 @@
   <a href="https://quiz-app-hazel-delta.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=Quiz-App&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=false&locale=en" /></a>
   <a href="https://superfly101.github.io/Portfolio/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=Portfolio&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=false&locale=en" /></a>
   <a href="https://musica-six.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=Musica&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=false&locale=en" /></a>
-  <a target="_blank" href="https://linktree-delta-one.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=Linktree&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=false&locale=en" /></a>
-</div>
+  <a href="https://linktree-delta-one.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=Linktree&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=false&locale=en" /></a>
 
 - A fullstack [Company's website](https://creative-start-website.vercel.app/) with a contact us form and file upload built with Tailwindcss and Next.js
 
@@ -25,8 +24,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Superfly101&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Superfly101&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Superfly101&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
