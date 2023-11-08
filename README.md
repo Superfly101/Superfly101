@@ -18,7 +18,7 @@
   <a href="https://musica-six.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=Musica&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=false&locale=en" /></a>
   <a href="https://linktree-delta-one.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=Linktree&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=false&locale=en" /></a>
 
-- A fullstack [Company's website](https://creative-start-website.vercel.app/) with a contact us form and file upload built with Tailwindcss and Next.js
+- A full-stack [Company's website](https://creative-start-website.vercel.app/) with a contact us form and file upload built with Tailwindcss and Next.js
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Superfly101&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
