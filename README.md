@@ -1,7 +1,7 @@
 **Hi there, I'm Daniel, I have a passion for building and creating things** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 💫 About Me:
-🔭 I’m currently working on building my web development skills <br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m open to front-end roles<br>🌱 I’m currently learning DSA, TypeScript, and C#<br>💬 Ask me about JavaScript, React, Python<br>⚡ Fun fact I love playing chess and watching Anime
+🔭 I’m currently working on building my web development skills <br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m open to front-end roles<br>🌱 I’m currently learning DSA, TypeScript, React-Native, and C#<br>💬 Ask me about JavaScript, React, Python<br>⚡ Fun fact I love playing chess and watching Anime
 
 
 ## 🌐 Socials:
@@ -17,8 +17,6 @@
   <a href="https://superfly101.github.io/Portfolio/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=Portfolio&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=false&locale=en" /></a>
   <a href="https://musica-six.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=Musica&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=false&locale=en" /></a>
   <a href="https://linktree-delta-one.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Superfly101&repo=Linktree&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=false&locale=en" /></a>
-
-- A full-stack [Company's website](https://creative-start-website.vercel.app/) with a contact us form and file upload built with Tailwindcss and Next.js
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Superfly101&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
